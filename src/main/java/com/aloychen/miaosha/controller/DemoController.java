@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 public class DemoController {
     //*.idea;*.mvn;*.gitignore;
     //..
+    //、、
     @RequestMapping("/")
     @ResponseBody
     public String home(){
